@@ -1,3 +1,4 @@
 qrcode
 opencv-python
 streamlit
+cv2
