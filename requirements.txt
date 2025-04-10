@@ -1,4 +1,5 @@
-qrcode
-opencv-python
 streamlit
-cv2
+opencv-python-headless
+numpy
+pandas
+qrcode
