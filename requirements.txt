@@ -1,2 +1,2 @@
 qrcode
-cv2
+opencv-python
